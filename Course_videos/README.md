@@ -1,6 +1,6 @@
 **PyTorch Course Videos Exercises**
 
-* Overview*
+*Overview*
 
 This repository contains the Jupyter notebooks coded while follow along the PyTorch for Deep Learning Course.
 
